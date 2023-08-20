@@ -1,0 +1,279 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Andi Empett",
+    "label": "DevOps Platforms Cloud",
+    "image": "",
+    "email": "andi.empett@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "A problem solver. Constantly pushing platforms forward. I fully embrace DevOps culture and Agile methodologies. I ❤️ change and carve out patterns with disruptive new tech. Enabling engineering teams to deliver. An OSS contributor and evangelist.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Salford",
+      "countryCode": "UK",
+      "region": "Greater Manchester"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "androidwiltron",
+        "url": "https://github.com/androidwiltron"
+      },
+      {
+        "network": "Linkedin",
+        "username": "andi-empett-7b3743185",
+        "url": "https://www.linkedin.com/in/andi-empett-7b3743185"
+      },
+      {
+        "network": "Twitter",
+        "username": "android_wiltron",
+        "url": "https://twitter.com/android_wiltron"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "capsulecrm.com",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2021-08-23",
+      "description": "Leading Infrastructure Engineering, Observability and Site Reliability for a Growing Marketing platform.",
+      "summary": "Evolving the platform from a startup to service that is needing to be both safe, can scale quickly and has a great developer experience Using devops best practice. Build and modernism the Ops team as it grew. Shift deployment of applications into containerised workloads. Leading the whole organisation to adopt common patterns in declarative infrastructure as code for application workloads. Shifting the business to adopt a multi cloud multi environment approach as they grew. Innovating in the DevOps space, bringing together infrastructure, automation, CICD, observability into something that was owned and being constantly developed.",
+      "highlights": [
+        "Moved the company to multi cloud using common patterns",
+        "AWS multi account using Terraform and full CICD",
+        "Lead a new team integration with infrastructure, modern testing patterns and even building bonds between existing teams.",
+        "Developed the infrastructure, security, observability and CICD of a growing marketing platform to continuous improvement and ownership.",
+        "Re-developed the mail server capability to scale and be defined in code with containerisation.",
+        "Switched microservices to use Serverless containers with a common pattern.",
+        "Improved the scaling capability and backup of an in-house certificate generation Application"
+      ],
+      "location": "Northern Quarter, Manchester UK"
+    },
+    {
+      "name": "moneysupermarket.com",
+      "position": "DevOps Engineer",
+      "startDate": "2019-12-17",
+      "endDate": "2021-08-23",
+      "description": "A Financial Services Company. Saving people money. Insurance products.",
+      "summary": "Working across multiple groups in technology to support applications moving to a Kubernetes platform leading on a new GitOps pattern. Building complex CI/CD with Jenkins and GitHub actions to speed up delivery. Building applications with AWS lambda to facilitate data transformations and authentication between systems. Successfully delivered a re-platform of an insurance price comparison site in Java to be fully serverless in AWS using Typescript and CDK.",
+      "highlights": [
+        "Delivering new green-field applications at scale.",
+        "Re-platforming Home Insurance Delivering the applications serverless.",
+        "Introducing Git-Ops Deployment patterns to the company with kubernetes and Argo-cd.",
+        "Giving regular showcases on the latest platform engineering innovation.",
+        "Improving the Developer experience and restructuring to a platform engineering team."
+      ],
+      "location": "Spinningfields, Manchester UK"
+    },
+    {
+      "name": "The University of Manchester",
+      "position": "DevOps Developer",
+      "startDate": "2013-09-01",
+      "endDate": "2019-11-16",
+      "description": "Innovation with new Global Open source Education Software.",
+      "summary": "Working in a small team utilizing agile methodologies to make one of the worlds largest lecture recording systems written in java. I lead the deployment, maintenance, new features and improvements to a multi stream python-based capture software platform. Im also head up a node-based clinical skills dashboard built in AWS ECS.",
+      "url": "https://www.mypodcasts.manchester.ac.uk/",
+      "location": "Oxford Road, Manchester UK",
+      "highlights": [
+        "Lead a team responsible for the deployment and stability of a product.",
+        "Growing the scale of infrastructure rapidly to meet service demand.",
+        "Automaton of video capture across one of the UK's largest enrolled student populations with high availability.",
+        "Collaborating with a global open source community.",
+        "Innovating new cloud-based services for academic technologies."
+      ]
+    },
+    {
+      "name": "The University of Manchester",
+      "position": "IT Support Technician",
+      "startDate": "2011-09-01",
+      "endDate": "2013-09-01",
+      "summary": "Working in a demanding higher Education Research environment providing specialist support to a wide range of researchers and disciplines Supporting web based and scientific software and scripts. Requirements gathering and customising or repurposing software for research use"
+    },
+    {
+      "name": "The University of Manchester",
+      "position": "Support Services Technician",
+      "startDate": "2008-09-01",
+      "endDate": "2011-09-01",
+      "summary": "Providing Laboratory support services to an interdisciplinary Research building"
+    },
+    {
+      "company": "3M Scott Safety (tyco)",
+      "position": "QA Test Analyst",
+      "timeperiod": "June 2007 - March 2008",
+      "startDate": "2007-06-01",
+      "endDate": "2008-03-23",
+      "summary": "QA tester, Gas tester, analytical chemist and lab technician. Worked on supporting the initial roll out of a next generation safety product."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "OpsChamps",
+      "position": "Mentor",
+      "startDate": "2023-07-15",
+      "summary": "Mentoring people early in their coding career wanting to adopt DevOps culture."
+    },
+    {
+      "organization": "Greater Manchester Combined Authority",
+      "position": "Enterprise Adviser",
+      "url": "https://bridgegm.co.uk/",
+      "startDate": "2020-10-01",
+      "summary": "Working as a adviser for young people looking to start a career in code. Providing mentoring and mock interviews."
+    },
+    {
+      "organization": "The University of Manchester Library",
+      "position": "Mentor",
+      "url": "https://medium.com/uom-digilab",
+      "startDate": "2018-09-01",
+      "endDate": "2019-11-16",
+      "summary": "Mentoring University students from all academic pursuits with varying coding skills. Worked one-on-one and in small teams teaching javascript and python."
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Manchester",
+      "area": "Biochemistry",
+      "studyType": "Bachelor of Science",
+      "startDate": "2004-09-30",
+      "endDate": "2008-09-01"
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "An Adopter Centric API and Visual Programming Interface for the Definition of Strategies for Automated Camera Tracking.",
+      "publisher": "IEEE",
+      "releaseDate": "2015-12-14",
+      "url": "https://ieeexplore.ieee.org/document/7442401",
+      "summary": "A UX focused javascript api for camera tracking technologies built for javascript."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Leadership",
+      "keywords": [
+        "Mentoring",
+        "Team Lead",
+        "Project Management",
+        "Architectural Design"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Javascript",
+        "Python",
+        "Go"
+      ]
+    },
+    {
+      "name": "Infrastructure Engineering",
+      "keywords": [
+        "Terraform",
+        "CDK",
+        "Ansible",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "ssmush",
+      "keywords": [
+        "express",
+        "javascript"
+      ],
+      "roles": [
+        "Author"
+      ],
+      "highlights": [
+        "Developer focused interaction with AWS secret resources",
+        "Simple defined permissions model",
+        "Codifies org patterns with naming and tagging",
+        "Modern authentication"
+      ],
+      "description": "SSM + hush. Making AWS secrets storing prescriptive and simple",
+      "url": "https://github.com/androidwiltron/ssmush",
+      "type": "application"
+    },
+    {
+      "name": "Packer Digitalocean image lifecycle",
+      "keywords": [
+        "go",
+        "HCL"
+      ],
+      "roles": [
+        "Author"
+      ],
+      "highlights": [
+        "Built using the packer plugin framework",
+        "Augmented additional open source plugins lacking image delete support"
+      ],
+      "description": "Manage Digitalocean image cleanup over time. Compliments the digitalocean packer plugins.",
+      "url": "https://github.com/androidwiltron/packer-plugin-digitalocean-image-lifecycle",
+      "type": "application"
+    },
+    {
+      "name": "Galicaster",
+      "keywords": ["Python"],
+      "roles": [
+        "Speaker",
+        "Core Committer"
+      ],
+      "highlights": [
+        "Added stability and fixes as the product grew",
+        "Gave talks on features and workshops for new adopters",
+        "Failover microphone automation's",
+        "QR code interaction with the video stream state",
+        "Developing live streaming with RTMP and NDI"
+      ],
+      "description": "Galicaster multi-stream video capture software.",
+      "url": "https://github.com/teltek/Galicaster",
+      "type": "application"
+    },
+    {
+      "name": "Peakaboo",
+      "keywords": [
+        "Meteor",
+        "Javascript"
+      ],
+      "roles": [
+        "Collaborator"
+      ],
+      "highlights": [
+        "lead a major Refactor to Bring a community release",
+        "Added An authentication provider",
+        "Added features for real time streaming of video and remote camera control"
+      ],
+      "description": "A dashboard used for large scale machine monitoring",
+      "url": "https://github.com/SussexLearningSystems/peakaboo",
+      "type": "web application"
+    },
+    {
+      "name": "terraform-provider-mongodb",
+      "keywords": [
+        "HCL",
+        "go"
+      ],
+      "roles": [
+        "Contributor"
+      ],
+      "highlights": [
+        "Improved usability with different flavours of mongodb like documentdb.",
+        "Supported changes to handling encryption."
+      ],
+      "description": "A terraform provider to create mongodb users and roles",
+      "url": "https://github.com/Kaginari/terraform-provider-mongodb",
+      "type": "infrastructure"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "stackoverflow"
+  }
+}
