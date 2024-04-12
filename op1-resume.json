@@ -18,26 +18,38 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "androidwiltron",
-        "url": "https://github.com/androidwiltron"
+        "username": "andiempett",
+        "url": "http://git.andi.empett.com"
       },
       {
         "network": "Linkedin",
         "username": "andi-empett-7b3743185",
         "url": "https://www.linkedin.com/in/andi-empett-7b3743185"
-      },
-      {
-        "network": "Twitter",
-        "username": "android_wiltron",
-        "url": "https://twitter.com/android_wiltron"
       }
     ]
   },
   "work": [
     {
+      "name": "JISC",
+      "url": "https://www.jisc.ac.uk/libraries-learning-resources-and-research",
+      "position": "Head of Technology and Infrastructure",
+      "startDate": "2023-11-01",
+      "description": "Leading An interdisciplinary team of software developers, infrastructure engineers and data engineers.",
+      "summary": "Building and operating software products that provide services to the education sector globally. Leading a team of engineers to grow software products while ensuring they are secure, meeting and improving on the software development standards set by the business and have the right infrastructure to perform reliably and at scale. Working with stakeholders to tap into our product data for business intelligence and creating new streams of value for customers.",
+      "highlights": [
+        "Brought together a new scrum team to deliver a new product. Increasing the team's data engineering capability and establishing new data engineering patterns.",
+        "Lead to create a new infrastructure as code pattern for the team with terraform and leaning into continuous delivery using GitLab.",
+        "Mentoring staff and helping to move their career in new trajectories",
+        "Bridging teams from across the wider business helping to craft new, efficient team topologies. Scoping technical work and bringing together the right people to implement change.",
+        "Performed technology reviews with multiple teams across the business. Working to invest in at code, infrastructure, observability, documentation and team culture"
+      ],
+      "location": "Oxford Street, Manchester UK"
+    },
+    {
       "name": "capsulecrm.com",
       "position": "Senior DevOps Engineer",
       "startDate": "2021-08-23",
+      "endDate": "2023-10-31",
       "description": "Leading Infrastructure Engineering, Observability and Site Reliability for a Growing Marketing platform.",
       "summary": "Evolving the platform from a startup to service that is needing to be both safe, can scale quickly and has a great developer experience Using devops best practice. Build and modernism the Ops team as it grew. Shift deployment of applications into containerised workloads. Leading the whole organisation to adopt common patterns in declarative infrastructure as code for application workloads. Shifting the business to adopt a multi cloud multi environment approach as they grew. Innovating in the DevOps space, bringing together infrastructure, automation, CICD, observability into something that was owned and being constantly developed.",
       "highlights": [
@@ -47,6 +59,7 @@
         "Developed the infrastructure, security, observability and CICD of a growing marketing platform to continuous improvement and ownership.",
         "Re-developed the mail server capability to scale and be defined in code with containerisation.",
         "Switched microservices to use Serverless containers with a common pattern.",
+        "Re-platformed microservices to use ARM architecture leveraging containerisation and AWS graviton. Gained performance and saved money.",
         "Improved the scaling capability and backup of an in-house certificate generation Application"
       ],
       "location": "Northern Quarter, Manchester UK"
@@ -196,7 +209,7 @@
         "Modern authentication"
       ],
       "description": "SSM + hush. Making AWS secrets storing prescriptive and simple",
-      "url": "https://github.com/androidwiltron/ssmush",
+      "url": "http://git.andi.empett.com/ssmush",
       "type": "application"
     },
     {
@@ -213,7 +226,7 @@
         "Augmented additional open source plugins lacking image delete support"
       ],
       "description": "Manage Digitalocean image cleanup over time. Compliments the digitalocean packer plugins.",
-      "url": "https://github.com/androidwiltron/packer-plugin-digitalocean-image-lifecycle",
+      "url": "http://git.andi.empett.com/packer-plugin-digitalocean-image-lifecycle",
       "type": "application"
     },
     {
